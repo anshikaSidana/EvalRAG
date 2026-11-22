@@ -1,7 +1,9 @@
-# EvalRAG: Automated RAG / LLM evaluation with a CI/CD quality gate
+# EvalRAG
 
 EvalRAG runs a fixed test set through a RAG application, scores every answer,
 stores the run, compares it with a baseline, and fails the CI build when quality drops.
+
+[Milestone 2 project report](docs/EvalRAG_Milestone2_Report.docx), presented by Anshika Sidana.
 
 ## Setup
 ```bash
